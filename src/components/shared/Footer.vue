@@ -1,7 +1,7 @@
 <template>
 <nav class="navbar fixed-bottom  navbar-light" style="background-color: #e3f2fd;">
     <span class="navbar-text mr-auto">
-        <strong>vuejsegitim.com</strong> | gkandemir
+        <strong>vuejsegitim</strong> | CansuOztas
     </span>
     <span class="navbar-text navbar-nav my-2 my-lg-0 mr-3">
         <strong>Alış Tutarı : </strong>
